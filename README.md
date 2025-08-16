@@ -12,19 +12,16 @@ El código y resultados fueron desarrollados en el marco del programa **Alura ON
 - Analizar patrones de evasión de clientes en variables numéricas y categóricas.  
 - Generar un **informe final** con conclusiones y recomendaciones estratégicas.  
 
-## Estructura del Proyecto
-´´bash
+## Archivos del Proyecto
 Telecom-X-Alura/
-├── data/
-│   └── TelecomX_Data.json              # Dataset original en formato JSON
-│
-├── notebooks/
-│   └── Telecom-X-Alura.ipynb           # Notebook principal con el proceso ETL y análisis
-│
-├── reports/
-│   └── informe_final.md                # Informe final en formato Markdown
-│
-├── README.md                           # Archivo principal de documentación del repositorio
+
+# Dataset original en formato JSON
+
+Telecom-X-Alura.ipynb   # Notebook principal con el proceso ETL y análisis
+
+Informe_Final.md # Informe final en formato Markdown
+
+README.md   # Archivo principal de documentación del repositorio
 
 ## Tecnologías utilizadas
 - **Python 3.10+**
