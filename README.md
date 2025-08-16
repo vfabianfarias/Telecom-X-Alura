@@ -13,6 +13,7 @@ El código y resultados fueron desarrollados en el marco del programa **Alura ON
 - Generar un **informe final** con conclusiones y recomendaciones estratégicas.  
 
 ## Estructura del Proyecto
+´´bash
 Telecom-X-Alura/
 ├── data/
 │   └── TelecomX_Data.json              # Dataset original en formato JSON
